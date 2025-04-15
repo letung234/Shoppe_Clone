@@ -3,16 +3,16 @@
 Shopee Clone là một dự án frontend mô phỏng lại trang thương mại điện tử Shopee, được xây dựng bằng **React + TypeScript** nhằm thực hành các kỹ thuật hiện đại trong phát triển ứng dụng web.
 
 ## Cài đặt dự án
-- Clone dự án
+- Clone dự án: 
     git clone https://github.com/letung234/Shoppe_Clone.git
 
-- Truy cập vào thư mục dự án
+- Truy cập vào thư mục dự án: 
     cd shopee-clone
 
-- Cài đặt các package
+- Cài đặt các package: 
     yarn install
 
-- Chạy dự án
+- Chạy dự án: 
     yarn dev
 
 ## Thông tin đăng nhập
