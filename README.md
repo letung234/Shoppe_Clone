@@ -40,7 +40,6 @@ Shopee Clone là một dự án frontend mô phỏng lại trang thương mại 
 
   - Hiển thị thông tin chi tiết
   - Ảnh hiển thị theo slider + hover zoom effect
-  - Mô tả thì hiển thị rich text dạng WYSIWYG HTML
   - Có chức năng mua hàng
 
 - Giỏ hàng
