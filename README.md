@@ -15,7 +15,8 @@ Shopee Clone là một dự án frontend mô phỏng lại trang thương mại 
 - Chạy dự án: 
     yarn dev
 ## Demo
-- link: shoppe-clone-flax.vercel.app
+- Link: [Shoppe Clone](https://shoppe-clone-flax.vercel.app)
+  
 ## Thông tin đăng nhập
 - Tài khoản: tung12345@gmail.com
 - Mật khẩu: tung12345
